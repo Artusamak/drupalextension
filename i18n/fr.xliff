@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="i-am-viewing-my-type-content-with-the-title-title">
         <source><![CDATA[I am viewing my :type (content )with the title :title]]></source>
-        <target><![CDATA[Je consulte mon/ma :type (contenu )dont le titre est :title]]></target>
+        <target><![CDATA[Je consulte mon/ma(contenu ) :type dont le titre est :title]]></target>
       </trans-unit>
       <trans-unit id="type-content">
         <source><![CDATA[:type content:]]></source>
@@ -175,11 +175,11 @@
       </trans-unit>
       <trans-unit id="for-field-i-enter-value">
         <source><![CDATA[for :field I enter :value]]></source>
-        <target><![CDATA[pour :field je saisie :value]]></target>
+        <target><![CDATA[pour :field je saisis :value]]></target>
       </trans-unit>
       <trans-unit id="i-enter-value-for-field">
         <source><![CDATA[I enter :value for :field]]></source>
-        <target><![CDATA[Je saisie :value pour :field]]></target>
+        <target><![CDATA[Je saisis :value pour :field]]></target>
       </trans-unit>
       <trans-unit id="i-wait-for-ajax-to-finish">
         <source><![CDATA[I wait for AJAX to finish]]></source>
@@ -255,7 +255,7 @@
       </trans-unit>
       <trans-unit id="i-should-not-see-the-text-text">
         <source><![CDATA[I should not see the text :text]]></source>
-        <target><![CDATA[Je ne devrais (probablement )pas voir le texte :text]]></target>
+        <target><![CDATA[Je ne devrais pas voir le texte :text]]></target>
       </trans-unit>
       <trans-unit id="i-should-get-a-code-http-response">
         <source><![CDATA[I should get a :code HTTP response]]></source>
