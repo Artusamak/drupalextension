@@ -167,7 +167,7 @@
       </trans-unit>
       <trans-unit id="i-visit-path">
         <source><![CDATA[I visit :path]]></source>
-        <target><![CDATA[je vais sur :path]]></target>
+        <target><![CDATA[je visite :path]]></target>
       </trans-unit>
       <trans-unit id="i-click-link">
         <source><![CDATA[I click :link]]></source>
