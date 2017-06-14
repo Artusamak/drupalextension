@@ -135,7 +135,7 @@ class DrupalContext extends RawDrupalContext implements TranslatableContext {
     $permissions = explode(',', $permissions);
     $rid = $this->getDriver()->roleCreate($permissions);
     $this->getDriver()->userAddRole($user, $rid);
-    $this->roles[] = $rid;
+    $user->roles[] = $rid;
 
     // Login.
     $this->login($user);
